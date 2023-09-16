@@ -1,0 +1,96 @@
+<mxfile host="app.diagrams.net" modified="2023-09-13T13:02:10.397Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="KgRvo7FOBi3Ym617ndSg" version="21.7.5" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="2184" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="pthZOgnU-KSErRF_XYxZ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="pthZOgnU-KSErRF_XYxZ-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;div&gt;DSSTox substances + TSCA degradates that meet PFAS definition&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-370" y="42.5" width="220" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="pthZOgnU-KSErRF_XYxZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pthZOgnU-KSErRF_XYxZ-0" target="pthZOgnU-KSErRF_XYxZ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pthZOgnU-KSErRF_XYxZ-0" value="Profile to assign OECD primary categories" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-110" y="55" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="pthZOgnU-KSErRF_XYxZ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pthZOgnU-KSErRF_XYxZ-1" target="pthZOgnU-KSErRF_XYxZ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pthZOgnU-KSErRF_XYxZ-1" value="Use chain length threshold of 7 to create secondary categories" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="55" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="pthZOgnU-KSErRF_XYxZ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pthZOgnU-KSErRF_XYxZ-3" target="pthZOgnU-KSErRF_XYxZ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pthZOgnU-KSErRF_XYxZ-3" value="Compare the median of the within and between category pairwise distance distributions" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="55" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="pthZOgnU-KSErRF_XYxZ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pthZOgnU-KSErRF_XYxZ-7" target="pthZOgnU-KSErRF_XYxZ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pthZOgnU-KSErRF_XYxZ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pthZOgnU-KSErRF_XYxZ-7" target="pthZOgnU-KSErRF_XYxZ-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pthZOgnU-KSErRF_XYxZ-7" value="&lt;div&gt;Does secondary category&amp;nbsp;&lt;/div&gt;&lt;div&gt;exceed threshold?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="40" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pthZOgnU-KSErRF_XYxZ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pthZOgnU-KSErRF_XYxZ-10" target="pthZOgnU-KSErRF_XYxZ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pthZOgnU-KSErRF_XYxZ-10" value="Subset category into tertiary categoy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="425" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pthZOgnU-KSErRF_XYxZ-13" value="&lt;div&gt;STOP&lt;/div&gt;&lt;div&gt;Terminal category&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="660" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pthZOgnU-KSErRF_XYxZ-14" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="70" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pthZOgnU-KSErRF_XYxZ-15" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="170" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pthZOgnU-KSErRF_XYxZ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pthZOgnU-KSErRF_XYxZ-16" target="pthZOgnU-KSErRF_XYxZ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pthZOgnU-KSErRF_XYxZ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pthZOgnU-KSErRF_XYxZ-16" target="pthZOgnU-KSErRF_XYxZ-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pthZOgnU-KSErRF_XYxZ-16" value="&lt;div&gt;Does tertiary category&amp;nbsp;&lt;/div&gt;&lt;div&gt;exceed threshold?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="200" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pthZOgnU-KSErRF_XYxZ-18" value="&lt;div&gt;STOP&lt;/div&gt;&lt;div&gt;Terminal category&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pthZOgnU-KSErRF_XYxZ-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pthZOgnU-KSErRF_XYxZ-19" target="pthZOgnU-KSErRF_XYxZ-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pthZOgnU-KSErRF_XYxZ-19" value="Subset category into quaternary category" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="225" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pthZOgnU-KSErRF_XYxZ-21" value="&lt;div&gt;STOP&lt;/div&gt;&lt;div&gt;Terminal category&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="225" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pthZOgnU-KSErRF_XYxZ-26" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="220" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pthZOgnU-KSErRF_XYxZ-27" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="320" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pthZOgnU-KSErRF_XYxZ-29" value="e.g. Other aliphatics gte7, 1,2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="520" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pthZOgnU-KSErRF_XYxZ-30" value="e.g. PFAAs, gte7" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="660" y="140" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pthZOgnU-KSErRF_XYxZ-31" value="e.g. Other aliphatics, lt7, 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-10" y="300" width="160" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
