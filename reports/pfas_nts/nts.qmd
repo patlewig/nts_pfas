@@ -28,7 +28,7 @@ author:
   - name: Stan Barone Jr.
     affiliations:
       - ref: OSCPP
-  - name: Kelly Carstens
+  - name: Kelly E. Carstens
     affiliations:
       - ref: CCTE
   - name: John Cowden
