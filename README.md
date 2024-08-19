@@ -1,7 +1,17 @@
-nts_pfas
+PFAS Chemical Categorisation
 ==============================
 
-Manuscript summarising the categorisation efforts for PFAS.
+Code repository supporting manuscript titled "Development of Chemical Categories for Per- and Polyfluoroalkyl Substances (PFAS) and the Proof-of-Concept Approach to the Identification of Potential Candidates for Tiered Toxicological Testing and Human Health Assessment". 
+
+
+Please cite: Patlewicz G., Judson R., Williams A. J., Butler T., Barone Jr. S ., Carstens K. E., Cowden J., Dawson J. L., Degitz S. , Fay K., Henry T. R., Lowit A.,  Padilla S., Paul Friedman K., Phillips M. B., Turk D., Wambaugh J., Wetmore B., Thomas R.S. Development of Chemical Categories for Per- and Polyfluoroalkyl Substances (PFAS) and the Proof-of-Concept Approach to the Identification of Potential Candidates for Tiered Toxicological Testing and Human Health Assessment. *Computational Toxicology* **2024** https://doi.org/10.1016/j.comtox.2024.100327
+
+Supplementary information referenced in the manuscript are available as a compressed tar file.
+Raw data files underpinning the analysis are available as a compressed tar file. 
+
+These files can be accessed at doi.org/10.23645/epacomptox.26524327
+
+Code repository is provided on an "as is" basis. 
 
 Project Organization
 ------------
