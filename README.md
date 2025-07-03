@@ -11,7 +11,10 @@ Raw data files underpinning the analysis are available as a compressed tar file.
 
 These files can be accessed at doi.org/10.23645/epacomptox.26524327
 
-Code repository is provided on an "as is" basis. 
+A prototype shiny-app to browse the landscape is available at patlewig.shinyapps.io/pfas_poc/ on a limited basis. 
+
+Code repository is provided on an "as is" basis and the user assumes responsibility for its use.
+ 
 
 Project Organization
 ------------
